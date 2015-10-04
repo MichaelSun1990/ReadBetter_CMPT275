@@ -1,0 +1,15 @@
+All variable name, class name and method name should be self-descriptive.
+All major methods, classes and files have to have explanation of what it does.
+
+Variable: 
+name: First word of the variable name will be in uppercase. Following words’ first letter will be in uppercase and remaining letters will be in lowercase.
+Local Variable : It must be unique within the same scope  
+Class name: Name will be unique and the first character of the class name will be uppercase , e.g (Map)
+Method name: each keyword before arguments starts with lower case character with each consecutive words first letter capitalized.
+Eg(bool isEmpty(Map&[]) ) ;
+
+Code formats:
+All methods requires a whitespace at the end.
+All codes should be properly indented.
+All setter methods should start with the word “set”.
+All getter methods should start with the word “get”.
